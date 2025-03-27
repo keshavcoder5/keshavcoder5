@@ -2,9 +2,10 @@
 I'm a passionate coder with a keen interest in building efficient and scalable solutions. I enjoy exploring different programming languages and frameworks. My primary focus is on problem-solving and learning new technologies.
 
 💻 Tech Stack:
-C: Deep understanding of low-level programming and system design.
 
-Java: Experience in building robust applications with object-oriented principles.
+C: Basic understanding of low-level programming and system design.
+
+Java: learning object-oriented principles.
 
 HTML: Creating responsive and well-structured web pages.
 
