@@ -1,19 +1,23 @@
-👋 Hi there, I'm Keshav!
-I'm a passionate coder with a keen interest in building efficient and scalable solutions. I enjoy exploring different programming languages and frameworks. My primary focus is on problem-solving and learning new technologies.
 
-💻 Tech Stack:
 
-C: Basic understanding of low-level programming and system design.
+### 🚀|Learner | Computer Enthusiast 
 
-Java: learning object-oriented principles.
+## 🧑‍💻 About Me
+- 🎓 **Studying BCA**
+- 💻 **Learning HTML & JAVA**
+- 🏴‍☠️ **Exploring PROGRAMMING**
+- 🌱 **Aspiring to LEARN**
 
-HTML: Creating responsive and well-structured web pages.
+## 🔧 Tech Stack
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🌱 Currently Learning:
-Expanding my knowledge in JavaScript and HTML.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavcoder5&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavcoder5&theme=radical" width="48%">
+</p>
 
-Exploring data structures and algorithms to enhance my problem-solving skills.
-
-🚀 Fun Fact:
-I'm always up for tackling new coding challenges and contributing to open-source projects. Feel free to connect or check out my repositories!
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshavcoder5)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keshav_magar/)
 
